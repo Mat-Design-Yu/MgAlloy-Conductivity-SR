@@ -15,6 +15,19 @@ For convenience and immediate use without any local installation, we have deploy
 
 **Access the tool here: [https://www.matdesign.cloud/Mg-Conductivity]**
 
+As a brief demonstration, the screenshots below illustrate the tool's simple input interface and the corresponding prediction output.
+
+<table>
+  <tr>
+    <td align="center"><b>1. Enter Alloy Composition and Temperature</b></td>
+    <td align="center"><b>2. View Prediction Results</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/screenshot_input.png" alt="Screenshot of the web tool's input interface" width="100%"></td>
+    <td><img src="screenshots/screenshot_output.png" alt="Screenshot of the web tool's prediction results" width="100%"></td>
+  </tr>
+</table>
+
 ---
 
 ## ⚙️ Local Installation and Setup
